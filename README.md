@@ -1,15 +1,11 @@
-# XuanQuiTiYu
-XuanQuiTiYu is committed to promoting professional and high-quality ball sports supplies, so that people can efficiently buy the best ball sports supplies in their daily life.
+# TanQiuTiYuZhuanJia
 
-- Our app shows a full range of ball sports supplies, including rackets, shoes, jerseys, tennis, basketball, football, sports protection, table tennis and other ball sports supplies. These kinds of complete ball games can meet the user's choice and purchase.
+We are committed to promoting all kinds of ball games, so that people can efficiently buy professional ball equipment in their daily life. At the same time, our app can also record the game details and scores, learn the rules and skills of various ball games, so that you can become an expert in playing ball.
 
-- Our app has classified these ball games in great detail, which helps users to quickly find the ball games they want to buy.
+Our app shows a full range of ball sports equipment, including recommendation of all kinds of fine ball, sports protective gear, jersey shoes, various ball training equipment and other ball equipment. These kinds of complete ball games equipment can meet the user's choice and purchase.
 
-- Our APP introduces each product in detail, so that you can fully understand these products, find the ball games you like, and facilitate you to purchase and place orders.
+There is also a ball game skills page in our app. We provide various skills and strategy analysis of ball games, so that you can learn more ball knowledge and improve your ball playing skills.
 
+Our app also has the function of score recording. You can record the score and details of the live match, record every match you like, and share the result of the match
 
-- Our app also has the function of commodity collection. Your favorite ball games can be collected into the collection list for your browsing and placing orders.
-
-
-Good ball gelievable, let your movement follow your heart!
-If you have any questions, please contact us as follows :pqkw80335ukh@sina.com
+If you have any questions, please contact us as follows :foofshihd@icloud.com
