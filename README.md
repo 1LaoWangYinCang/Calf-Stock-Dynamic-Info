@@ -1,11 +1,16 @@
 # JieBaoTiYu
 
-We are committed to promoting all kinds of ball games, so that people can efficiently buy professional ball equipment in their daily life. At the same time, our app can also record the game details and scores, learn the rules and skills of various ball games, so that you can become an expert in playing ball.
+JieBaoTiYu is an APP to learn fencing knowledge points, buy fencing training equipment and record the results of competitions. It is dedicated to promoting fencing sports, so that people can buy professional fencing equipment in daily life, learn detailed fencing knowledge and easily record the results of competitions.
 
-Our app shows a full range of ball sports equipment, including recommendation of all kinds of fine ball, sports protective gear, jersey shoes, various ball training equipment and other ball equipment. These kinds of complete ball games equipment can meet the user's choice and purchase.
 
-There is also a ball game skills page in our app. We provide various skills and strategy analysis of ball games, so that you can learn more ball knowledge and improve your ball playing skills.
+Our app shows a full range of fencing sports equipment, including fencing bags, fencing training equipment, fencing training attire, fencing protection and other fencing equipment. These categories of complete fencing sports equipment can meet the user's selection and procurement.
 
-Our app also has the function of score recording. You can record the score and details of the live match, record every match you like, and share the result of the match
+Our APP introduces each product in detail, so that you can fully understand these products, find your favorite fencing sports equipment, and make it convenient for you to purchase and place orders.
 
-If you have any questions, please contact us as follows :Xgdugau@iCloud.com
+Our app also has the function of commodity collection. Your favorite fencing sports equipment can be collected into the collection list, which is convenient for you to browse and place orders.
+
+There is also a fencing sports knowledge page in our app. We provide various information about weightlifting, so that you can have a better understanding of fencing and become interested in fencing.
+
+Our app also has the function of record of match performance. You can record the match performance and details, record every fencing match you like, and share the match performance.
+
+If you have any questions, please contact us as follows :cvgsdgh@icloud.com
