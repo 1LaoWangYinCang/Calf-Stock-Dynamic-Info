@@ -1,16 +1,9 @@
-# JieBaoTiYu
+# Calf Stock Dynamic Info
 
-JieBaoTiYu is an APP to learn fencing knowledge points, buy fencing training equipment and record the results of competitions. It is dedicated to promoting fencing sports, so that people can buy professional fencing equipment in daily life, learn detailed fencing knowledge and easily record the results of competitions.
+Calf Stock Dynamic Info is a platform for stock lovers to learn, exchange and share. It has the latest stock news, real-time news, basic knowledge, industry information and other information in the circle.
 
+Our app makes it easy for users to get the market information of all kinds of stocks, and also to book related lectures conveniently. Users can put forward their own opinions on hot news information, share news information, collect valuable news and like articles. Users can also express their opinions in the community and exchange their ideas with others.
 
-Our app shows a full range of fencing sports equipment, including fencing bags, fencing training equipment, fencing training attire, fencing protection and other fencing equipment. These categories of complete fencing sports equipment can meet the user's selection and procurement.
+Get the latest stock dynamic information at any time.
 
-Our APP introduces each product in detail, so that you can fully understand these products, find your favorite fencing sports equipment, and make it convenient for you to purchase and place orders.
-
-Our app also has the function of commodity collection. Your favorite fencing sports equipment can be collected into the collection list, which is convenient for you to browse and place orders.
-
-There is also a fencing sports knowledge page in our app. We provide various information about fencing so that you can have a better understanding of fencing and become interested in fencing.
-
-Our app also has the function of record of match performance. You can record the match performance and details, record every fencing match you like, and share the match performance.
-
-If you have any questions, please contact us as follows :cvgsdgh@icloud.com
+If you have any questions, please contact us as follows :geppouezhekak@hotmail.com
